@@ -2,7 +2,6 @@ services:
 - type: web
   name: resume-maker
   runtime: image
-  repo: https://github.com/danielian1121/resumeMaker_Deplyment
   plan: free
   autoDeploy: true
   image:
